@@ -2,6 +2,8 @@
 
 A production-style streaming and machine-learning portfolio project that scores financial transactions in real time, records alerts, exposes operational metrics, and runs locally with Docker.
 
+![Fraud scoring demonstration](docs/demo.svg)
+
 ## Business outcome
 
 Payment teams need to identify suspicious activity in seconds without blocking every legitimate customer. This platform combines machine-learning probability with explainable risk rules, returning a decision and human-readable reasons for every transaction.
